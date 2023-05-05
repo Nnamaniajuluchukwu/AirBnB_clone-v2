@@ -8,7 +8,7 @@ from time import strftime
 import os
 
 env.user = "ubuntu"
-env.hosts = ["52.72.26.101", "100.25.162.157"]
+env.hosts = ["100.26.120.84", "18.207.1.176"]
 env.key_filename = '~/.ssh/id_rsa'
 
 
