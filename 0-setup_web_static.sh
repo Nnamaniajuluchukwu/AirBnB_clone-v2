@@ -14,7 +14,7 @@ sudo echo "<html>
   <head>
   </head>
   <body>
-    Tediyang codes
+    Imadecorp
   </body>
 </html>" | sudo tee /data/web_static/releases/test/index.html
 sudo ln -s -f /data/web_static/releases/test/ /data/web_static/current
